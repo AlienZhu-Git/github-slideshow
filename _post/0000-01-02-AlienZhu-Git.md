@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: slide12345
 title: "Welcome to our second slide!"
 ---
 Your text
